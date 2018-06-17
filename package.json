@@ -1,6 +1,6 @@
 {
   "name": "box2dweb-egret",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "box2dweb for egret",
   "main": "Box2D.js",
   "scripts": {
