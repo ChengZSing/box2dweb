@@ -1,0 +1,24 @@
+{
+  "name": "box2dweb-egret",
+  "version": "1.0.0",
+  "description": "box2dweb for egret",
+  "main": "Box2D.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChengZSing/box2dweb-egret.git"
+  },
+  "keywords": [
+    "box2d",
+    "box2dweb",
+    "egret"
+  ],
+  "author": "ChengZSing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChengZSing/box2dweb-egret/issues"
+  },
+  "homepage": "https://github.com/ChengZSing/box2dweb-egret#readme"
+}
