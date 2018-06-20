@@ -10865,7 +10865,7 @@ Box2D.postDefs = [];
       s.graphics.drawCircle(center.x * drawScale, center.y * drawScale, radius * drawScale);
       s.graphics.endFill();
 
-      s.graphics.moveTo(0,0);
+      s.graphics.moveTo(center.x * drawScale, center.y * drawScale);
       s.graphics.lineTo((center.x + axis.x * radius) * drawScale, (center.y + axis.y * radius) * drawScale);
       
    };
